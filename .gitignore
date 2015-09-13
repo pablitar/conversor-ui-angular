@@ -1,0 +1,5 @@
+/target/
+.directory
+src/main/generated-sources/
+npm-debug.log
+src/main/webapp/node_modules/
